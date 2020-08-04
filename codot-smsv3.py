@@ -4,7 +4,7 @@ from time import sleep
 def balik():
     f = input("\n\033[1;97mCOBA LAGI (y/t): \033[1;92m")
     if f == "y":
-       os.system("python2 dakocan-smsv3.py")
+       os.system("python2 codot-smsv3.py")
     elif f == "t":
          sys.exit("\n\033[1;91mTERIMA KASIH SUDAH MEMAKAI TOOLS KAMI:)\033[1;97m")
 def marco():
